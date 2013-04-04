@@ -1,0 +1,47 @@
+BODY  {  
+	scrollbar-3dlight-color:B4B4B4;
+	scrollbar-arrow-color:333333;
+	scrollbar-base-color:EEEEEE;
+	scrollbar-darkshadow-color:FFFFFF;
+	scrollbar-face-color:eeeeee;
+	scrollbar-highlight-color:FFFFFF;
+	scrollbar-shadow-color:B4B4B4;
+}
+ 
+input.search    { font-size:8pt; color:#736357; border:solid 1 #ffffff;background-color:#ECE9D8; height:15px;}
+input.nobox	 { font-family:; font-size:9pt; color:#33333; border:solid 0 #cccccc;background-color:trans; height:14px}
+select		     { font-size:8pt;color:#787878; border:solid 1 #E1DFDF;background-color:#ffffff;}
+ 
+.form1            { font-size:8pt; border:solid 1 #CACACA; color:#666666 ; padding-left:5px; background-color:#FFFFFF; font-family: "tahoma" }
+.form2            { font-size:8pt; border:solid 1 #CACACA; color:#666666 ; padding-left:5px; background-color:#F3F3F3; font-family: "tahoma" }
+.form3            { font-size:8pt; border:solid 0 #C3C1C2; color:#ffffff; background-color:#556769; font-family: "tahoma" }
+.form_order    { font-size:8pt; border:solid 1 #D8D3CD; background-color:#ffffff; font-family: "tahoma" }
+.textarea2       { font-size:8pt; border:solid 1 #E2D5C5; background-color:#ffffff; font-family: "tahoma"; color: #787878; padding-left:11px; padding-top:11px; padding-bottom:11px; padding-right:11px }
+
+
+td                {FONT-SIZE: 8pt; COLOR: #666666; FONT-FAMILY: ; TEXT-DECORATION: none; line-height: 13pt;word-spacing: -2px;}
+ 
+
+A:link        {FONT-SIZE: 8pt; COLOR: #666666; FONT-FAMILY: ; TEXT-DECORATION: none; line-height: 12pt;}
+A:visited    {FONT-SIZE: 8pt; COLOR: #666666; FONT-FAMILY: ; TEXT-DECORATION: none; line-height: 12pt;}
+A:active     {FONT-SIZE: 8pt; COLOR: #666666; FONT-FAMILY: ; TEXT-DECORATION: none; line-height: 12pt;}
+A:hover     {FONT-SIZE: 8pt; COLOR: #666666; FONT-FAMILY: ; TEXT-DECORATION: underline; linae-height: 12pt;}
+  
+.left                  {FONT-SIZE: 8pt; COLOR: #477B85; FONT-FAMILY: ; TEXT-DECORATION: none; line-height: 12pt;}
+.left  A:link        {FONT-SIZE: 8pt; COLOR: #477B85; FONT-FAMILY: ; TEXT-DECORATION: none; line-height: 12pt;}
+.left  A:visited    {FONT-SIZE: 8pt; COLOR: #477B85; FONT-FAMILY: ; TEXT-DECORATION: none; line-height: 12pt;}
+.left   A:hover    {FONT-SIZE: 8pt; COLOR: #014E84; FONT-FAMILY: ; TEXT-DECORATION: none; linae-height: 12pt; font-weight:bold;}
+
+
+<!--homepage--->
+.main_portfolio                  {font-family:; font-size: 8pt; color:#ffffff; line-height: 10pt; letter-spacing: 0px;  word-spacing: -2px; TEXT-DECORATION: none;}
+.main_portfolio   A:link       {font-family:; font-size: 8pt; color:#ffffff; line-height: 10pt; letter-spacing: 0px;  word-spacing: -2px; TEXT-DECORATION: none;}
+.main_portfolio   A:visited  {font-family:; font-size: 8pt; color:#ffffff; line-height: 10pt; letter-spacing: 0px;  word-spacing: -2px; TEXT-DECORATION: none;}
+.main_portfolio   A:hover   {font-family:; font-size: 8pt; color:#ffffff; line-height: 10pt; letter-spacing: 0px;  word-spacing: -2px; TEXT-DECORATION: underline;}
+
+
+<!---txt--->
+.job_big        {font-family:; font-size: 8pt; color:0046A8; line-height: 12pt; letter-spacing: 0px; TEXT-DECORATION: none; font-weight:bold}
+.gray            {font-family:; font-size: 8pt; color:CFD0BE; line-height: 14pt; letter-spacing: 0px; TEXT-DECORATION: none;}
+.green          {font-family:; font-size: 8pt; color:02964C; line-height: 14pt; letter-spacing: 0px; word-spacing: -1px; TEXT-DECORATION: none; font-weight:none;}
+

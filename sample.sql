@@ -1,0 +1,3 @@
+INSERT INTO 
+	`info112_log`.`call_log` 
+	(`id`, `agent`, `call_type`, `call_category`, `username`, `currency`, `call_start`, `call_end`, `outcome`, `comment`, `sms`, `email`, `call_result`, `call_duration`) VALUES (NULL, 'Nikki', 'Retention', '0.2%LIVE0.4%SLOT and SLOT40/LIVE10', 'yo520', 'CNY', '2012-08-22 00:00:00', '2012-08-22 00:00:00', 'No Answer', 'request send email don''t call again', '1', '1', 'Not reached', '00:00:00');

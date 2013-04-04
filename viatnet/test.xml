@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+   <ack>
+      <refno>A</refno>
+      <author gender="female">B</author>
+      <description>Wrong username and/or password</description>
+      <refno>A</refno>
+      <author gender="female">B</author>
+      <description>Wrong username and/or password</description>
+      <refno>A</refno>
+      <author gender="female">B</author>
+      <description>Wrong username and/or password</description>
+      <refno>b</refno>
+      <author gender="female">c</author>
+      <description>Wrong username and/or password</description>
+   </ack>
+
